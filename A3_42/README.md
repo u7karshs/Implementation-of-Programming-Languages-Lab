@@ -3,7 +3,7 @@ FLEX (fast lexical analyzer generator) is a tool for generating lexical analyzer
 You are expected to use FLEX to design a Lexical Analyzer, which is the first phase of a Compiler
 
 
-#--------------------------------------------------------------
+--------------------------------------------------------------
 Contents:
 
 A3_42.c  : Contains main function
@@ -14,7 +14,8 @@ Makefile : To make/ make clear the test nanoC file
 	     This produces output.txt
 
 output.txt : Generated after running Makefile 
-#--------------------------------------------------------------
+
+--------------------------------------------------------------
 
 Steps to run:
 

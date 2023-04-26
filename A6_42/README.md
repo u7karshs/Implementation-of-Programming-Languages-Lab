@@ -20,18 +20,22 @@ A6_42_target_translator.cpp: Target code translator
 A6_42_translator.cpp: symbol table generator
 
 Makefile : To "make" / "make clean" to test nanoC file (nc)
-	     This produces output.txt / removes output.txt
+	     This produces output / removes output
 
 	: make test1
     ./test1
+    
 	: make test2
     ./test2
+    
 	: make test3
     ./test3
+    
 	: make test4
     ./test4
+    
 	: make test5
     ./test5
-output.txt : Generated after running Makefile 
+    
 
 -----------------------------------------------------------
